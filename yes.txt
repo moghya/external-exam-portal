@@ -1,0 +1,11 @@
+12 mins
+
+Development phase 6 2 2 2
+current -> reqmnt -> plan -> excn;
+frontend backend 
+
+
+Deployment 6 2 2 2 
+admin ->
+student 
+teacher

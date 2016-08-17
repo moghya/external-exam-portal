@@ -1,0 +1,5 @@
+Steps:
+1)Execute the mini.sql file over server for creating DB;
+2)Move above Mini folder into public directory of Server;
+3)There you go.
+4) Admin Username: admin Password: 123456

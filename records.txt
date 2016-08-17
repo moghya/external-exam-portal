@@ -1,0 +1,6 @@
+INSERT INTO `stud`(`id`, `prn`, `pwd`, `fname`, `mname`, `lname`, `yr`, `bran`)VALUES 
+('','2014BIT002','2014BIT002','Pooja','Papa','Patil','II','IT'),
+('','2014BIT003','2014BIT003','Pooja','Papa','Patil','II','IT'),
+('','2014BIT004','2014BIT004','Pooja','Papa','Patil','II','IT'),
+('','2014BCS001','2014BCS001','Pooja','Papa','Patil','II','CSE'),
+('','2013BIT001','2013BIT001','Pooja','Papa','Patil','III','IT')
